@@ -7,9 +7,3 @@ alert('This user likes ' + burger);
 document.write( '<section>' + burger + '</section>');
 
 let resonse = '';
-
-
-
-
-
-
